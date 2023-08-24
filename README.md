@@ -6,5 +6,5 @@
 - [LDR Sensor](https://github.com/Adeen317/ProjectsWithArduino/blob/main/LDR_with_Arduino/LDR_with_Arduino.ino)
 
   
-### Toolchain
+## Toolchain:
 - [Arduino ide](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
