@@ -18,4 +18,8 @@ void loop(){
     digitalWrite(ledPin, LOW);  //turn on the LED
     Serial.println(ldrStatus);
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6965819ba43bc392015266d0267a0cda11b3295b
