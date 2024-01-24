@@ -20,7 +20,7 @@ LED blink through arduino to check connectivivty and functionality of arduino.
 ### Project 4
 #### Controlling Relay with Arduino  
 
-- [Relay Control](https://github.com/Adeen317/ProjectsWithArduino/blob/main/Connection%20through%20python/Finger_counter.py)
+- [Relay Control](https://github.com/Adeen317/ProjectsWithArduino/blob/main/Relay.ino)
   
 ## Toolchain:
 - [Arduino ide](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
