@@ -19,6 +19,7 @@ LED blink through arduino to check connectivivty and functionality of arduino.
 
 ### Project 4
 #### Controlling Relay with Arduino  
+![image](https://github.com/Adeen317/ProjectsWithArduino/assets/112985225/f4a25332-1ad3-481f-bcba-534badaf1dbf)
 
 - [Relay Control](https://github.com/Adeen317/ProjectsWithArduino/blob/main/Relay.ino)
   
